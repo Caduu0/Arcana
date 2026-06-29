@@ -1,0 +1,6 @@
+{
+  "order": 1000,
+  "size": 1,
+  "icon": "minecraft:item/arrow",
+  "drop_rule": "DEFAULT"
+}

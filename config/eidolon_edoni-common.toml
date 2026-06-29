@@ -1,0 +1,24 @@
+#Controls the reduction ratio of food effect duration. A larger value results in a shorter duration (effect duration is divided by this value)
+# Default: 3
+# Range: 2 ~ 20
+merammerFoodDurationRate = 3
+#Base duration of Weakness applied by Soultaking.
+# Default: 80
+# Range: > -2147483648
+soultakingWeaknessDurationBase = 80
+#Base duration of Vulnerable applied by Soultaking.
+# Default: 80
+# Range: > -2147483648
+soultakingVulnerableDurationBase = 80
+#Base duration of Fettered applied by Clinging.
+# Default: 60
+# Range: > -2147483648
+clingingFetteredDurationBase = 60
+#Base range to disable mob spawning added by Faithful. Adds to the default 24 blocks.
+# Default: 8
+# Range: > -2147483648
+faithfulDisableMobSpawningRange = 8
+#Base damage of devour spell.
+# Default: 20
+# Range: > -2147483648
+devourDamageBase = 20

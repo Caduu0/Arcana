@@ -1,0 +1,56 @@
+{
+  "mais_vida": {
+    "title": "Vitalidade",
+    "description": "Adiciona +0.5 Coração à sua vida máxima.",
+    "icon": {
+      "type": "effect",
+      "data": { "effect": "minecraft:health_boost" }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mais_ataque": {
+    "title": "Força Bruta",
+    "description": "Aumenta seu dano de ataque em 10%.",
+    "icon": {
+      "type": "effect",
+      "data": { "effect": "minecraft:strength" }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  },
+  "mineracao_rapida": {
+    "title": "Braço de Ferro",
+    "description": "Aumenta a velocidade de mineração em 10%.",
+    "icon": {
+      "type": "effect",
+      "data": { "effect": "minecraft:haste" }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:player.block_break_speed",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ]
+  }
+}

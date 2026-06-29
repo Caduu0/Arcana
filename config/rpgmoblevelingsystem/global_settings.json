@@ -1,0 +1,13 @@
+{
+  "ascendantLootTable": "minecraft:chests/end_city_treasure",
+  "ascendantEffectsMinLevel": 50.0,
+  "ascendantEffectsChance": 0.5,
+  "randomEffects": false,
+  "useLegacyHud": true,
+  "hideHudFor": [
+    ""
+  ],
+  "overlayXOffset": 0.0,
+  "overlayYOffset": 0.45,
+  "overlayZOffset": 0.0
+}

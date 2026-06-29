@@ -1,0 +1,9 @@
+[FunctionalChemicalConfig]
+	#How much chemical (in mb) the pulling upgrade will try to pull
+	UPGRADE_PULL_CHEMICAL = 4000
+	#How much chemical (in mb) the pushing upgrade will try to pull
+	UPGRADE_PUSH_CHEMICAL = 4000
+	#How much should the chemical storage be divided by for any given Storage Upgrade
+	# Default: 1.0
+	# Range: 1.0 ~ 1.7976931348623157E308
+	CHEMICAL_DIVISOR = 1.0

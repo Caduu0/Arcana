@@ -1,0 +1,28 @@
+{
+  "attributes": [
+    {
+      "attributeId": "minecraft:generic.max_health",
+      "valuePerLevel": 2.0,
+      "maxValue": 300.0,
+      "mobFilter": ""
+    },
+    {
+      "attributeId": "minecraft:generic.movement_speed",
+      "valuePerLevel": 0.005,
+      "maxValue": 0.2,
+      "mobFilter": ""
+    },
+    {
+      "attributeId": "minecraft:generic.armor",
+      "valuePerLevel": 0.1,
+      "maxValue": 50.0,
+      "mobFilter": ""
+    },
+    {
+      "attributeId": "minecraft:generic.attack_damage",
+      "valuePerLevel": 0.5,
+      "maxValue": 100.0,
+      "mobFilter": ""
+    }
+  ]
+}

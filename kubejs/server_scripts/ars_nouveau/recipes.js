@@ -1,0 +1,20 @@
+﻿ServerEvents.recipes(event => {
+    $ArsNouveau$EnchantingApparatus(
+        event,
+        'allthemodium:unobtainium_allthemodium_alloy_ingot',
+        [
+            'primalmagick:hallowsteel_ingot',
+            'ars_nouveau:air_essence',
+            'allthemodium:allthemodium_ingot',
+            'ars_nouveau:earth_essence',
+            'allthemodium:piglich_heart',
+            'ars_nouveau:fire_essence',
+            'allthemodium:unobtainium_ingot',
+            'ars_nouveau:water_essence'
+        ],
+        'ars_nouveau:source_gem',
+        false,
+        35000,
+        'unobtainium_allthemodium_alloy_ingot'
+    );
+})

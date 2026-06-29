@@ -1,0 +1,12 @@
+{
+    "x": -100,
+    "y": 72,
+    "width": 200,
+    "height": 20,
+    "text": {
+        "key": "Mete o pe"
+    },
+    "action": {
+        "type": "packmenu:quit"
+    }
+}

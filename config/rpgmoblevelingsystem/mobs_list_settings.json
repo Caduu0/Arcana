@@ -1,0 +1,19 @@
+{
+  "banned": [
+    "minecraft:dolphin",
+    "minecraft:bat",
+    "minecraft:pufferfish",
+    "minecraft:salmon",
+    "minecraft:cod"
+  ],
+  "deathMessages": false,
+  "lockedMobs": {
+    "minecraft:ender_dragon": 10.0,
+    "minecraft:warden": 10.0,
+    "minecraft:wither": 10.0
+  },
+  "canBeAscendant": [
+    "minecraft:zombie",
+    "minecraft:skeleton"
+  ]
+}

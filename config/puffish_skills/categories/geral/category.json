@@ -1,0 +1,11 @@
+{
+  "title": "Habilidades Gerais",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "background": "minecraft:textures/block/dark_oak_planks.png",
+  "points": "points"
+}

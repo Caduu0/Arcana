@@ -1,0 +1,69 @@
+["Configs for Create Vampirism Mod"]
+	#[WIP] Disable Human Parts (Leg and Arm Item) | Default: true
+	disableHumanParts = true
+
+	["Configs for Create Vampirism Mod"."Blood Generator Block Config"]
+		#Max Fill level of the Blood Generator Block | Default: 8000
+		# Default: 8000
+		# Range: 1000 ~ 16000
+		bloodGeneratorBlockMaxFillAmount = 8000
+		#The Fill Amount of the generated Blood | Default: 5
+		# Default: 5
+		# Range: 1 ~ 100
+		bloodGeneratorBlockFillAmount = 5
+		#The Fill Rate of the Generator in Ticks | Default: 40
+		# Default: 40
+		# Range: 10 ~ 4000
+		bloodGeneratorBlockFillRate = 40
+
+	["Configs for Create Vampirism Mod"."Blood Filling Station Block Config"]
+		#The Processing Time of one Bottle in ticks | Default: 40
+		# Default: 40
+		# Range: 20 ~ 200
+		bloodFillingStationProcessingTime = 40
+		#The Amount of Blood needed to Fill up a Bottle in mb | Default: 900
+		# Default: 900
+		# Range: 250 ~ 1000
+		bloodFillingStationBloodAmountNeeded = 900
+
+	["Configs for Create Vampirism Mod"."Weapon Config"]
+		#The Weapon cooldown for both weapons in Ticks | Default: 10
+		# Default: 10
+		# Range: 5 ~ 200
+		weapon_cooldown = 10
+		#The Max stack amount for the Ammunition Items | Default: 64
+		# Default: 64
+		# Range: 16 ~ 128
+		weapon_ammo_max_stack = 64
+		#The Amount of Rounds inside one Ammo Item | Default: 10
+		# Default: 10
+		# Range: 1 ~ 60
+		weapon_ammo_per_pack = 10
+
+		["Configs for Create Vampirism Mod"."Weapon Config"."Vampire Weapon"]
+			#The Amount of Damage the Vampire Weapon deals | Default: 5
+			# Default: 5
+			# Range: 1 ~ 20
+			vampire_weapon_damage = 5
+			#If the Shooter should be Healed when hitting a Target | Default: true
+			vampire_weapon_heal_shooter = true
+			#The Amount of Blood given back to the Player on hit | Default: 5
+			# Default: 5
+			# Range: 0 ~ 40
+			vampire_weapon_blood_reward = 5
+			#If Vampire player should get a blood reward for left Ammo on Reloading | Default: true
+			vampire_weapon_blood_reward_reload = true
+
+		["Configs for Create Vampirism Mod"."Weapon Config"."Holy Weapon"]
+			#The Amount of Damage the Holy Weapon deals | Default: 5
+			# Default: 5
+			# Range: 1 ~ 38
+			holy_weapon_damage = 5
+			#Extra damage on Vampires in Sunlight | Default: 3
+			# Default: 3
+			# Range: 0 ~ 10
+			holy_weapon_extra_sunlight_damage = 3
+			#The Resistance effect Length in Seconds | Default: 20
+			# Default: 20
+			# Range: 0 ~ 30
+			holy_weapon_resistance_effect_time = 20

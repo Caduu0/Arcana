@@ -1,0 +1,39 @@
+{
+  "dimensions": [
+    {
+      "dimensionId": "minecraft:overworld",
+      "min": 1.0,
+      "max": 40.0
+    },
+    {
+      "dimensionId": "minecraft:the_nether",
+      "min": 40.0,
+      "max": 80.0
+    },
+    {
+      "dimensionId": "minecraft:the_end",
+      "min": 80.0,
+      "max": 160.0
+    },
+    {
+      "dimensionId": "aether:the_aether",
+      "min": 10.0,
+      "max": 60.0
+    },
+    {
+      "dimensionId": "twilightforest:twilight_forest",
+      "min": 30.0,
+      "max": 60.0
+    },
+    {
+      "dimensionId": "eternal_starlight:starligh",
+      "min": 10.0,
+      "max": 60.0
+    },
+    {
+      "dimensionId": "deeperdarker:otherside",
+      "min": 50.0,
+      "max": 100.0
+    }
+  ]
+}

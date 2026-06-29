@@ -1,0 +1,8 @@
+{
+  "scaleType": "both",
+  "baseLevel": 1.0,
+  "scaleFactor": 0.2,
+  "scaleDistance": 2500.0,
+  "dayFactor": 1.0,
+  "xpModifier": 5.0
+}

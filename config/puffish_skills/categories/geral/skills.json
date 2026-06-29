@@ -1,0 +1,350 @@
+{
+	"bxi62puusfxpi6mw": {
+		"definition": "mais_vida",
+		"x": 16.564418886561327,
+		"y": -61.81925288250037,
+		"root": false
+	},
+	"qgigit4ojztxad60": {
+		"definition": "mais_vida",
+		"x": 45.25483399593904,
+		"y": -45.254833995939045,
+		"root": false
+	},
+	"v0ysqntpig9f01a8": {
+		"definition": "mais_vida",
+		"x": 61.81925288250037,
+		"y": 16.56441888656132,
+		"root": false
+	},
+	"z7az2qr9pyhmhu8q": {
+		"definition": "mais_vida",
+		"x": 45.254833995939045,
+		"y": 45.25483399593904,
+		"root": false
+	},
+	"7p5lr193pqtjwle6": {
+		"definition": "mais_vida",
+		"x": 16.564418886561345,
+		"y": 61.819252882500365,
+		"root": false
+	},
+	"8squp5s71p12uubq": {
+		"definition": "mais_vida",
+		"x": -16.564418886561345,
+		"y": 61.819252882500365,
+		"root": false
+	},
+	"mmx76navvlkkuvkf": {
+		"definition": "mais_vida",
+		"x": -45.254833995939066,
+		"y": 45.254833995939016,
+		"root": false
+	},
+	"cx36hnb3mejs6tds": {
+		"definition": "mais_vida",
+		"x": -61.81925288250037,
+		"y": 16.56441888656132,
+		"root": false
+	},
+	"yse16hedukeakjh9": {
+		"definition": "mais_vida",
+		"x": -61.81925288250037,
+		"y": -16.564418886561327,
+		"root": false
+	},
+	"umad9tyskf99tcer": {
+		"definition": "mais_vida",
+		"x": -45.25483399593904,
+		"y": -45.254833995939045,
+		"root": false
+	},
+	"cy1kqccxabczuodl": {
+		"definition": "mais_vida",
+		"x": -16.564418886561327,
+		"y": -61.81925288250037,
+		"root": false
+	},
+	"s7e11z8ftgc41e5c": {
+		"definition": "mais_ataque",
+		"x": -15.999999999999998,
+		"y": -27.71281292110204,
+		"root": false
+	},
+	"z5ds28ekumwmwtk7": {
+		"definition": "mineracao_rapida",
+		"x": -15.999999999999998,
+		"y": 27.71281292110204,
+		"root": false
+	},
+	"32shceh0764uh6r9": {
+		"definition": "mais_ataque",
+		"x": 16.670225056025313,
+		"y": -94.54154428917197,
+		"root": false
+	},
+	"uub65w7z9lybm36k": {
+		"definition": "mais_ataque",
+		"x": 47.99999999999999,
+		"y": -83.13843876330611,
+		"root": false
+	},
+	"8jbiywrmtnp0b7aq": {
+		"definition": "mais_ataque",
+		"x": 73.54026653942189,
+		"y": -61.70761052990778,
+		"root": false
+	},
+	"ula4hj6d27a16kgc": {
+		"definition": "mais_ataque",
+		"x": 90.2104915954472,
+		"y": -32.833933759264205,
+		"root": false
+	},
+	"zc0hkdihcryzr3wb": {
+		"definition": "mais_ataque",
+		"x": 96,
+		"y": -5.878304635907295e-15,
+		"root": false
+	},
+	"aap3zeccc0rarkp2": {
+		"definition": "mais_ataque",
+		"x": 90.21049159544721,
+		"y": 32.8339337592642,
+		"root": false
+	},
+	"2f6s7j7rvuztmbc2": {
+		"definition": "mais_ataque",
+		"x": 73.54026653942192,
+		"y": 61.70761052990775,
+		"root": false
+	},
+	"28k9r9n4216tjlw2": {
+		"definition": "mais_ataque",
+		"x": 48.00000000000003,
+		"y": 83.1384387633061,
+		"root": false
+	},
+	"ucbj3t74jum4p4sj": {
+		"definition": "mais_ataque",
+		"x": 16.670225056025345,
+		"y": 94.54154428917197,
+		"root": false
+	},
+	"1vo03s2d7pgzfs9c": {
+		"definition": "mais_ataque",
+		"x": -16.670225056025306,
+		"y": 94.54154428917197,
+		"root": false
+	},
+	"csyotooc5bqq95dt": {
+		"definition": "mais_ataque",
+		"x": -47.99999999999999,
+		"y": 83.13843876330611,
+		"root": false
+	},
+	"9p7982j5aicd3c7y": {
+		"definition": "mais_ataque",
+		"x": -73.54026653942189,
+		"y": 61.70761052990778,
+		"root": false
+	},
+	"zvh3fk8mmlxrfg2l": {
+		"definition": "mais_ataque",
+		"x": -90.21049159544721,
+		"y": 32.83393375926418,
+		"root": false
+	},
+	"mowd7ywzbaejwe5c": {
+		"definition": "mais_ataque",
+		"x": -96,
+		"y": -5.878304635907295e-15,
+		"root": false
+	},
+	"4oczmrxi9f1coxtk": {
+		"definition": "mais_ataque",
+		"x": -90.2104915954472,
+		"y": -32.833933759264205,
+		"root": false
+	},
+	"ozohp6wgeo34p8b0": {
+		"definition": "mais_ataque",
+		"x": -73.54026653942188,
+		"y": -61.70761052990779,
+		"root": false
+	},
+	"ssyqgutejbe78ijx": {
+		"definition": "mais_ataque",
+		"x": -47.99999999999999,
+		"y": -83.13843876330611,
+		"root": false
+	},
+	"41ipe9yxchbcagwr": {
+		"definition": "mineracao_rapida",
+		"x": 16.7073526041666,
+		"y": -126.90494225584773,
+		"root": false
+	},
+	"svf4meqhrxs2ne80": {
+		"definition": "mineracao_rapida",
+		"x": 48.98347934273149,
+		"y": -118.2565801614447,
+		"root": false
+	},
+	"2do0t0g0vy4a2rt2": {
+		"definition": "mineracao_rapida",
+		"x": 77.92146291311623,
+		"y": -101.54922755727812,
+		"root": false
+	},
+	"xu39dedfxjc7b786": {
+		"definition": "mineracao_rapida",
+		"x": 101.5492275572781,
+		"y": -77.92146291311624,
+		"root": false
+	},
+	"7uu2l5f77j52auh1": {
+		"definition": "mineracao_rapida",
+		"x": 118.2565801614447,
+		"y": -48.9834793427315,
+		"root": false
+	},
+	"fp6hjasqbqlb1vz4": {
+		"definition": "mineracao_rapida",
+		"x": 126.90494225584773,
+		"y": -16.70735260416662,
+		"root": false
+	},
+	"ht75lvluzhyj8r0j": {
+		"definition": "mineracao_rapida",
+		"x": 126.90494225584773,
+		"y": 16.707352604166605,
+		"root": false
+	},
+	"t7y2ysw224k8h76d": {
+		"definition": "mineracao_rapida",
+		"x": 118.2565801614447,
+		"y": 48.983479342731485,
+		"root": false
+	},
+	"4t21uotshch5piak": {
+		"definition": "mineracao_rapida",
+		"x": 101.54922755727813,
+		"y": 77.9214629131162,
+		"root": false
+	},
+	"vdr0k1emfe5w95lp": {
+		"definition": "mineracao_rapida",
+		"x": 77.92146291311627,
+		"y": 101.54922755727809,
+		"root": false
+	},
+	"h4ymp0rf7sggojbc": {
+		"definition": "mineracao_rapida",
+		"x": 16.707352604166655,
+		"y": 126.90494225584773,
+		"root": false
+	},
+	"quo33ygise76mq31": {
+		"definition": "mineracao_rapida",
+		"x": -16.7073526041666,
+		"y": 126.90494225584773,
+		"root": false
+	},
+	"avh79ckbji1i0cz1": {
+		"definition": "mineracao_rapida",
+		"x": 48.983479342731556,
+		"y": 118.25658016144467,
+		"root": false
+	},
+	"ausveo1o3es0s87f": {
+		"definition": "mineracao_rapida",
+		"x": -48.983479342731506,
+		"y": 118.2565801614447,
+		"root": false
+	},
+	"4gurkx5c08wgb51l": {
+		"definition": "mineracao_rapida",
+		"x": -77.92146291311627,
+		"y": 101.54922755727809,
+		"root": false
+	},
+	"q4twqr0smd81mxvq": {
+		"definition": "mineracao_rapida",
+		"x": -118.25658016144472,
+		"y": 48.98347934273146,
+		"root": false
+	},
+	"6mz3iqo261tv66ch": {
+		"definition": "mineracao_rapida",
+		"x": -126.90494225584774,
+		"y": 16.707352604166577,
+		"root": false
+	},
+	"x6rkyezq9t2xqrn6": {
+		"definition": "mineracao_rapida",
+		"x": -101.5492275572781,
+		"y": 77.92146291311624,
+		"root": false
+	},
+	"xr855ninb4f86n9e": {
+		"definition": "mineracao_rapida",
+		"x": -126.90494225584773,
+		"y": -16.70735260416662,
+		"root": false
+	},
+	"lkqo7aji75nxtsjo": {
+		"definition": "mineracao_rapida",
+		"x": -118.25658016144469,
+		"y": -48.98347934273152,
+		"root": false
+	},
+	"74e4693ekmau6yde": {
+		"definition": "mineracao_rapida",
+		"x": -77.92146291311624,
+		"y": -101.5492275572781,
+		"root": false
+	},
+	"9qc76ekvodakmjz0": {
+		"definition": "mineracao_rapida",
+		"x": -48.98347934273149,
+		"y": -118.2565801614447,
+		"root": false
+	},
+	"h19p3nkvrfe8ydbr": {
+		"definition": "mineracao_rapida",
+		"x": -16.7073526041666,
+		"y": -126.90494225584773,
+		"root": false
+	},
+	"7ptgi5oewvr4f6up": {
+		"definition": "mineracao_rapida",
+		"x": -101.5492275572781,
+		"y": -77.92146291311624,
+		"root": false
+	},
+	"bvhfdep22hsjevsp": {
+		"definition": "mais_vida",
+		"x": 61.819252882500365,
+		"y": -16.56441888656134,
+		"root": false
+	},
+	"5hcd0wahu3m20go6": {
+		"definition": "mais_vida",
+		"x": 0,
+		"y": 0,
+		"root": true
+	},
+	"zn177vvcwlp3omj6": {
+		"definition": "mais_ataque",
+		"x": -16.670225056025313,
+		"y": -94.54154428917197,
+		"root": false
+	},
+	"sdzr5y5p03lmtgvw": {
+		"definition": "mais_vida",
+		"x": 32,
+		"y": -1.959434878635765e-15,
+		"root": false
+	}
+}
