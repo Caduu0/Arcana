@@ -1,20 +1,21 @@
 ServerEvents.recipes(event => {
 
 // --------------------- Minecraft --------------------- //
-// // Ender Eye
-// event.remove({ output: 'minecraft:ender_eye' })
-// event.shaped(
-//   'minecraft:ender_eye',
-//   [
-//     ' A ',
-//     'ABA',
-//     ' A '
-//   ],
-//   {
-//     A: 'minecraft:iron_block',
-//     B: '#c:bones'
-//   }
-// )
+// Ender Eye
+event.remove({ output: 'minecraft:ender_eye' })
+event.shaped(
+  'minecraft:ender_eye',
+  [
+    ' S ',
+    'FPF',
+    ' S '
+  ],
+  {
+    P: '#c:ender_pearls',
+    F: 'minecraft:blaze_powder',
+    S: 'ars_nouveau:source_gem'
+  }
+)
 // --------------------- Baubley Heart ---------------------  //
 // Baubley Heart
 event.remove({ output: 'bhc:canister' })
